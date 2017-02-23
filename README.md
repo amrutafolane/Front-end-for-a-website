@@ -13,15 +13,17 @@ Various features in the project:
 
 Specific events made as following:
 
+Specific events made as following:
+
 		#1. CLICK: 
 		- HIDE: 
-		 On the 'contact us' page, click on 'here' and go to the 'contact us' page. On this page, there is a button- 'Hide Table' which when      single clicked on, hides the table of contacts.
+		 On the 'contact us' page, click on 'here' and go to the 'contact us' page. On this page, there is a button- 'Hide Table' which when single clicked on, hides the table of contacts.
 
 		-SHOW: 
-		In the contact page, redirected from the 'contact us' tab on main page, when the text in yellow is clicked, the form to be filled is     displayed.
+		In the contact page, redirected from the 'contact us' tab on main page, when the text in yellow is clicked, the form to be filled is displayed.
 
 		-TOGGLE: 
-		The "Check out our new entries" button just below the carousel slider(on the index_main.html page) has been given the toggle             functionality. 
+		The "Check out our new entries" button just below the carousel slider(on the index_main.html page) has been given the toggle functionality. 
 		Click on it, and it will show and hide the new book entries in the store.
 
 		#2. DOUBLE CLICK: 
@@ -30,7 +32,7 @@ Specific events made as following:
 		-FADE TO: Refer last point of this point
 		-FADE TOGGLE: 
 
-		In the last "Contact Us" tab, there are three buttons : 'doubleClick Fade In', 'doubleClick Fade Out', 'doubleClick Fade In',           'doubleClick Fade Toggle' which toggles the image on the page.
+		In the last "Contact Us" tab, there are three buttons : 'doubleClick Fade In', 'doubleClick Fade Out', 'doubleClick Fade In',  'doubleClick Fade Toggle' which toggles the image on the page.
 
 		#3. MOUSE ENTER:
 		Click on the 'Categories' tab, go to that page -> 
@@ -49,7 +51,7 @@ Specific events made as following:
 ---------------------------------------------------------------------------------------------------------------------
 
 
-c. On the "Contact Us" page (redirected form the "contact us" tab on the main page):
+On the "Contact Us" page (redirected form the "contact us" tab on the main page):
 
 	i. A 4X4 table is made.
 
@@ -61,8 +63,8 @@ c. On the "Contact Us" page (redirected form the "contact us" tab on the main pa
 
 	v. 
 
-	1) Hover the mouse over the table cells while pressing down the 'Alt' key, the background of the cells change to 'blue' and font to     'red'.
+	1) Hover the mouse over the table cells while pressing down the 'Alt' key, the background of the cells change to 'blue' and font to 'red'.
 
 	2) The cell returns to its original congifuration as the 'Alt' key is unpressed or the mouse leaves the cell.
-  
-  
+
+		
