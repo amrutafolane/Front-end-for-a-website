@@ -13,8 +13,6 @@ Various features in the project:
 
 Specific events made as following:
 
-Specific events made as following:
-
 		#1. CLICK: 
 		- HIDE: 
 		 On the 'contact us' page, click on 'here' and go to the 'contact us' page. On this page, there is a button- 'Hide Table' which when single clicked on, hides the table of contacts.
